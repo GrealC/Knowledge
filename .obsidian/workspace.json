@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md"
+                "file": "Research Base/Methods/如何阅读论文？.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md",
+                "file": "Research Base/Methods/如何阅读论文？.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md",
+                "file": "Research Base/Methods/如何阅读论文？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md",
+                "file": "Research Base/Methods/如何阅读论文？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md"
+                "file": "Research Base/Methods/如何阅读论文？.md"
               }
             }
           },
@@ -175,20 +175,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ef7d740288f19731",
+  "active": "dc6de3ff483a0845",
   "lastOpenFiles": [
+    "Paper Reading/NLP/Attention/Attention is all you need.md",
+    "Template/Paper Reading Notes-.md",
+    "Template/论文阅读笔记-.md",
+    "Paper Reading/NLP/Attention",
+    "Research Base/Methods/如何阅读论文？.md",
+    "Paper Reading/NLP/1CEA7E00",
+    "Paper Reading/NLP/NLP Paper Reading Summary.md",
+    "Paper Reading/NLP/~$NLP Paper Reading Summary.xlsx",
+    "Paper Reading/NLP/NLP Paper Reading Summary.xlsx",
+    "Paper Reading/NLP/~建 Microsoft Excel 工作表.tmp",
+    "Paper Reading/NLP/新建 Microsoft Excel 工作表.xlsx",
+    "Research Base/Env/Pytorch与Cuda的环境配置.md",
+    "Research Base/Methods",
     "Major Courses",
     "Issue & Bug",
     "Exchange & Share/Conference",
-    "Exchange & Share/Tutorial",
-    "Exchange & Share/Survey",
-    "Exchange & Share",
-    "Paper Reading/CV",
-    "Paper Reading/NLP",
-    "Paper Reading",
-    "Research Base/Env/Pytorch与Cuda的环境配置.pdf",
-    "Research Base/Math",
-    "Research Base/Env/Pytorch与Cuda的环境配置.md",
     "Research Base/Tool/Conda/conda基础操作手册.md",
     "Research Base/Tool/Zotero/Zotero Plugs.md",
     "Template/Test Reading.md",
