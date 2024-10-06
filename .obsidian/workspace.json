@@ -4,33 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2912241c91599fd4",
+        "id": "00f548314a7ea374",
         "type": "tabs",
+        "dimension": 20.234604105571847,
         "children": [
           {
-            "id": "c8b4ff54031e19a3",
+            "id": "fef1c2ac9bd1d0f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outline",
               "state": {
-                "file": "Tool/Zotero/Zotero Plugs.md",
-                "mode": "source",
-                "source": false
+                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md"
               }
             }
           }
         ]
       },
       {
-        "id": "00f548314a7ea374",
+        "id": "cce4635307d66589",
         "type": "tabs",
+        "dimension": 79.76539589442815,
         "children": [
           {
-            "id": "f2cd03e54e15761f",
+            "id": "dc6de3ff483a0845",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "125d0471fea297e4",
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool/Zotero/Zotero Plugs.md",
+                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tool/Zotero/Zotero Plugs.md",
+                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,16 +143,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Zotero/Zotero Plugs.md"
+                "file": "Research Base/Env/Pytorch与Cuda的环境配置.md"
               }
             }
+          },
+          {
+            "id": "4adacc380b9418cc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,15 +169,32 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c8b4ff54031e19a3",
+  "active": "ef7d740288f19731",
   "lastOpenFiles": [
-    "欢迎.md",
-    "Tool/Zotero/Zotero Plugs.md",
-    "Tool/Zotero",
-    "Tool",
-    "Research Base"
+    "Major Courses",
+    "Issue & Bug",
+    "Exchange & Share/Conference",
+    "Exchange & Share/Tutorial",
+    "Exchange & Share/Survey",
+    "Exchange & Share",
+    "Paper Reading/CV",
+    "Paper Reading/NLP",
+    "Paper Reading",
+    "Research Base/Env/Pytorch与Cuda的环境配置.pdf",
+    "Research Base/Math",
+    "Research Base/Env/Pytorch与Cuda的环境配置.md",
+    "Research Base/Tool/Conda/conda基础操作手册.md",
+    "Research Base/Tool/Zotero/Zotero Plugs.md",
+    "Template/Test Reading.md",
+    "Research Base/未命名.md",
+    "Tool/Zotero/Drawing 2024-10-06 16.03.30.excalidraw.md",
+    "未命名.canvas",
+    "欢迎.md"
   ]
 }
