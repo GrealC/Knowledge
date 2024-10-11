@@ -1,7 +1,4 @@
 > Date of Writing：{{Date}} {{time}}
-
-
-# Title
 > Information：source、year、author
 
 

@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "00f548314a7ea374",
-        "type": "tabs",
-        "dimension": 20.234604105571847,
-        "children": [
-          {
-            "id": "fef1c2ac9bd1d0f8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Research Base/Methods/如何阅读论文？.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "cce4635307d66589",
         "type": "tabs",
-        "dimension": 79.76539589442815,
         "children": [
           {
             "id": "dc6de3ff483a0845",
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Base/Methods/如何阅读论文？.md",
+                "file": "Paper Reading/Classic/Survey/Recent Advances in Recurrent Neural Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Base/Methods/如何阅读论文？.md",
+                "file": "Paper Reading/Classic/Survey/Recent Advances in Recurrent Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Base/Methods/如何阅读论文？.md",
+                "file": "Paper Reading/Classic/Survey/Recent Advances in Recurrent Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Base/Methods/如何阅读论文？.md"
+                "file": "Paper Reading/Classic/Survey/Recent Advances in Recurrent Neural Networks.md"
               }
             }
           },
@@ -156,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,24 +157,30 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dc6de3ff483a0845",
+  "active": "ef7d740288f19731",
   "lastOpenFiles": [
-    "Paper Reading/NLP/Attention/Attention is all you need.md",
-    "Template/Paper Reading Notes-.md",
+    "Paper Reading/CV/Survey",
+    "Paper Reading/Classic/Survey",
     "Template/论文阅读笔记-.md",
-    "Paper Reading/NLP/Attention",
+    "Template/Paper Reading Notes-.md",
+    "Paper Reading/Classic/Survey/Recent Advances in Recurrent Neural Networks.md",
+    "Paper Reading/NLP/Attention/Attention is all you need.md",
+    "Specialized Research/Classic/Framework/RNN学习笔记.md",
+    "Paper Reading/Classic",
+    "Specialized Research/Classic/Framework/LSTM学习笔记.md",
+    "Specialized Research/Classic/Concept/共享特征.md",
+    "Specialized Research/Classic/Algorithm",
+    "Specialized Research/Classic/Framework",
+    "Specialized Research/Classic/Concept",
+    "Specialized Research/Frontier",
+    "Specialized Knowledge/CV",
+    "Specialized Knowledge/NLP",
+    "Specialized Research/Classic",
+    "Paper Reading/Classical/RNN.md",
+    "Specialized Research",
     "Research Base/Methods/如何阅读论文？.md",
-    "Paper Reading/NLP/1CEA7E00",
     "Paper Reading/NLP/NLP Paper Reading Summary.md",
-    "Paper Reading/NLP/~$NLP Paper Reading Summary.xlsx",
-    "Paper Reading/NLP/NLP Paper Reading Summary.xlsx",
-    "Paper Reading/NLP/~建 Microsoft Excel 工作表.tmp",
-    "Paper Reading/NLP/新建 Microsoft Excel 工作表.xlsx",
     "Research Base/Env/Pytorch与Cuda的环境配置.md",
-    "Research Base/Methods",
-    "Major Courses",
-    "Issue & Bug",
-    "Exchange & Share/Conference",
     "Research Base/Tool/Conda/conda基础操作手册.md",
     "Research Base/Tool/Zotero/Zotero Plugs.md",
     "Template/Test Reading.md",
