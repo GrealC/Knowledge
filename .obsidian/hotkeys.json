@@ -7,5 +7,22 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-title-index:add-markdown-index": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }

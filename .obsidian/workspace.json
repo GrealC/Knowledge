@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cce4635307d66589",
+        "id": "11cd9e8606961a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "dc6de3ff483a0845",
+            "id": "71d2f9fc5f3842c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialized Research/Basic/Deep Learning/RNN/RNN源码学习.md",
+                "file": "Specialized Research/Basic/Python/Typing库：类型提示(Type Hint).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Typing库：类型提示(Type Hint)"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -85,15 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialized Research/Basic/Deep Learning/RNN/RNN源码学习.md",
+                "file": "Specialized Research/Basic/Python/Typing库：类型提示(Type Hint).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Typing库：类型提示(Type Hint) 的反向链接列表"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialized Research/Basic/Deep Learning/RNN/RNN源码学习.md",
+                "file": "Specialized Research/Basic/Python/Typing库：类型提示(Type Hint).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Typing库：类型提示(Type Hint) 的出链列表"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialized Research/Basic/Deep Learning/RNN/RNN源码学习.md"
-              }
+                "file": "Specialized Research/Basic/Python/Typing库：类型提示(Type Hint).md"
+              },
+              "icon": "lucide-list",
+              "title": "Typing库：类型提示(Type Hint) 的大纲"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -142,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,13 +176,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "ef7d740288f19731",
+  "active": "71d2f9fc5f3842c8",
   "lastOpenFiles": [
+    "Specialized Research/Basic/Python/类.md",
+    "Specialized Research/Basic/Python/Typing库：类型提示(Type Hint).md",
+    "Specialized Research/Basic/Python/函数.md",
+    "Specialized Research/Basic/Deep Learning/RNN/RNN源码学习.md",
+    "Specialized Research/Basic/Pytorch/Pytorch中的__constants__.md",
+    "Specialized Research/NLP/~$NLP Paper Reading Summary.xlsx",
+    "未命名思维导图.md",
+    "Template/Paper Reading Notes-.md",
+    "Research Base/Tool/Zotero/Zotero Plugs.md",
+    "Specialized Research/Basic/Pytorch/TorchScript & ScriptModule.md",
+    "`mode`、`input_size`、`hidden_size`、`num_layers`、`bias`、`batch_first`、`dropout`、`bidirectional` 和 `proj_size` 这些属性在模型被脚本化后，将被视为常量。TorchScript 编译器会知道这些属性在模型的前向传播过程中不会改变，因此可以对它们进行更激进的优化，例如内联（inlining）或者死码消除（dead code elimination）。.md",
+    "Why do we use __constants__？.md",
+    "[[Why do we use __constants__？.md",
     "Paper Reading.xlsx",
     "新建 Microsoft Excel 工作表.xlsx~RF3ea55f90.TMP",
     "~建 Microsoft Excel 工作表.tmp",
     "新建 Microsoft Excel 工作表.xlsx",
-    "Specialized Research/Basic/Deep Learning/RNN/RNN源码学习.md",
     "Specialized Research/Basic/Deep Learning/RNN",
     "Paper Reading/NLP/Attention/Attention is all you need.md",
     "Paper Reading/NLP/~$NLP Paper Reading Summary.xlsx",
@@ -171,23 +202,18 @@
     "Specialized Research/CV",
     "Specialized Research/NLP",
     "Specialized Research/Basic/Deep Learning",
-    "Specialized Research/Basic/Machine Learning",
-    "Specialized Research/Basic/Pytorch",
     "Specialized Research/Classic/Framework/RNN学习笔记.md",
     "Specialized Research/Classic/Framework/LSTM学习笔记.md",
     "Specialized Research/Classic/Concept/共享特征.md",
     "Template/论文阅读笔记-.md",
-    "Template/Paper Reading Notes-.md",
     "Paper Reading/Classical/RNN.md",
     "Research Base/Methods/如何阅读论文？.md",
     "Paper Reading/NLP/NLP Paper Reading Summary.md",
     "Research Base/Env/Pytorch与Cuda的环境配置.md",
     "Research Base/Tool/Conda/conda基础操作手册.md",
-    "Research Base/Tool/Zotero/Zotero Plugs.md",
     "Template/Test Reading.md",
     "Research Base/未命名.md",
     "Tool/Zotero/Drawing 2024-10-06 16.03.30.excalidraw.md",
-    "未命名.canvas",
-    "欢迎.md"
+    "未命名.canvas"
   ]
 }

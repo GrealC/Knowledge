@@ -1,4 +1,6 @@
 {
-  "useTab": false,
-  "showUnsupportedFiles": true
+  "useTab": true,
+  "showUnsupportedFiles": true,
+  "showIndentGuide": false,
+  "autoConvertHtml": false
 }

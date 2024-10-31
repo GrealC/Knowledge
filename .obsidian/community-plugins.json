@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
   "obsidian-emoji-toolbar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-outliner",
+  "obsidian-title-index"
 ]
