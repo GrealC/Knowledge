@@ -68,6 +68,9 @@ Vector = list[float]
 from typing import TypeAlias
 Vector: TypeAlias = list[float]
 ```
+
+^type
+
 ## 3. NewType
 ### 3.1. 是什么？
 `NewType` 用于创建几乎零运行时开销的简单唯一类型，也是一种类型注解，用于静态检测时的类型判断，普通运行时传值依然不受NewType类型的影响，可以随意传值。

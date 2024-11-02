@@ -2,5 +2,6 @@
   "useTab": true,
   "showUnsupportedFiles": true,
   "showIndentGuide": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "alwaysUpdateLinks": true
 }
