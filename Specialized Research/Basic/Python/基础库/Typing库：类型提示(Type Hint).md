@@ -31,6 +31,9 @@ print_value(1)
 1.0
 """
 ```
+
+^function
+
 #### 1.3.2. 声明变量
 ```python
 name: str # 声明为str,也可以输入其他值，并不会出错

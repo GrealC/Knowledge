@@ -142,7 +142,7 @@ def my_function():
 ```
 ### 1.7. `return/yield`语句
 #### 1.7.1. `return`
-return 语句用于从一个函数返回一个值，并终止该函数的执行。当 return 语句被执行时，函数立即结束，并将控制权返回给调用者
+return 语句用于从一个函数返回一个值，并终止该函数的执行。当 return 语句被执行时，函数立即结束，并将控制权返回给调用者 ^return
 - 返回一个值
 ```python
 def add(a, b):
@@ -618,7 +618,7 @@ match_example({"a": 1, "b": 2})  # 输出: Dictionary with a=1 and b=2
 match_example(5)  # 输出: No match found
 ```
 ### 2.6. 函数定义
-[[函数]]
+[[python-函数]]
 ### 2.7. 类定义
 [[Python-面向对象]]
 
