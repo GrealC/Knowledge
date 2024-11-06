@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialized Research/Basic/Python/教程/python-函数.md",
+                "file": "Specialized Research/Basic/Python/教程/python-模块与包.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python-函数"
+              "title": "python-模块与包"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialized Research/Basic/Python/教程/python-函数.md"
+                "file": "Specialized Research/Basic/Python/教程/python-模块与包.md"
               },
               "icon": "lucide-list",
-              "title": "python-函数 的大纲"
+              "title": "python-模块与包 的大纲"
             }
           },
           {
@@ -162,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +179,9 @@
   },
   "active": "71d2f9fc5f3842c8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-11-03 18.33.23.excalidraw.md",
+    "Specialized Research/Basic/Python/教程/python-模块与包.md",
     "Specialized Research/Basic/Python/教程/python-函数.md",
+    "Excalidraw/Drawing 2024-11-03 18.33.23.excalidraw.md",
     "Excalidraw",
     "Specialized Research/Basic/Python/基础库/Typing库：类型提示(Type Hint).md",
     "Specialized Research/Basic/Python/教程/Python-语句.md",
@@ -214,7 +215,6 @@
     "Specialized Research/Classic/Concept/共享特征.md",
     "Template/论文阅读笔记-.md",
     "Paper Reading/Classical/RNN.md",
-    "Research Base/Methods/如何阅读论文？.md",
     "未命名.canvas"
   ]
 }
